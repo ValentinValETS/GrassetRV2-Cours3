@@ -1,0 +1,7 @@
+D:\Doctorat\VisualStudioProjects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+D:\Doctorat\VisualStudioProjects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+D:\Doctorat\VisualStudioProjects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+D:\Doctorat\VisualStudioProjects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+D:\Doctorat\VisualStudioProjects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+D:\Doctorat\VisualStudioProjects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+D:\Doctorat\VisualStudioProjects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
